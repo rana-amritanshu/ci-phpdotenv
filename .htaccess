@@ -1,0 +1,2 @@
+SetEnv MOREENV "More environment variables"
+SetEnv S3BUCK "my s3 buck"
