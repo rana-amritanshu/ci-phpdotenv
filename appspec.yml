@@ -2,4 +2,4 @@ version: 1.0
 os: linux
 files:
   - source: /
-    destination: /var/www/html/CI
+    destination: /var/www/html
